@@ -1,0 +1,38 @@
+Academic Year,County Code,District Code,School Code,County Name,District Name,School Name,District Type,School Type,"Educational 
+Option Type","NSLP 
+Provision 
+Status","Charter 
+School 
+(Y/N)","Charter 
+School 
+Number","Charter 
+Funding 
+Type",IRC,Low Grade,High Grade,"Enrollment 
+(K-12)","Free Meal 
+Count 
+(K-12)","Percent (%) 
+Eligible Free 
+(K-12)","FRPM Count 
+(K-12)","Percent (%) 
+Eligible FRPM 
+(K-12)","Enrollment 
+(Ages 5-17)","Free Meal 
+Count 
+(Ages 5-17)","Percent (%) 
+Eligible Free 
+(Ages 5-17)","FRPM Count 
+(Ages 5-17)","Percent (%) 
+Eligible FRPM 
+(Ages 5-17)","CALPADS Fall 1 
+Certification Status"
+2021-2022,01,61259,6001929,Alameda,Oakland Unified,Horace Mann Elementary,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,5,199,177,88.9%,190,95.5%,199,177,88.9%,190,95.5%,Y
+2021-2022,01,61259,6001663,Alameda,Oakland Unified,Brookfield Elementary,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,5,197,147,74.6%,178,90.4%,197,147,74.6%,178,90.4%,Y
+2021-2022,01,61259,6001697,Alameda,Oakland Unified,Carl B. Munck Elementary,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,5,202,121,59.9%,154,76.2%,183,114,62.3%,146,79.8%,Y
+2021-2022,01,61259,6001879,Alameda,Oakland Unified,Grass Valley Elementary,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,5,207,143,69.1%,180,87.0%,207,143,69.1%,180,87.0%,Y
+2021-2022,01,61259,0112813,Alameda,Oakland Unified,Fred T. Korematsu Discovery Academy,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,5,213,181,85.0%,200,93.9%,209,177,84.7%,196,93.8%,Y
+2021-2022,01,61259,6001911,Alameda,Oakland Unified,Hillcrest,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,8,354,41,11.6%,56,15.8%,354,41,11.6%,56,15.8%,Y
+2021-2022,01,61259,6002091,Alameda,Oakland Unified,Parker,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,8,227,203,89.4%,213,93.8%,227,203,89.4%,213,93.8%,Y
+2021-2022,01,61259,0106542,Alameda,Oakland Unified,Community Day,Unified School District,District Community Day Schools,Community Day School,N/A,N,N/A,N/A,N,6,12,8,8,100.0%,8,100.0%,8,8,100.0%,8,100.0%,Y
+2021-2022,01,61259,6096523,Alameda,Oakland Unified,La Escuelita,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,8,388,303,78.1%,353,91.0%,370,290,78.4%,339,91.6%,Y
+2021-2022,01,61259,0110262,Alameda,Oakland Unified,Rise Community Elementary,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,5,180,159,88.3%,168,93.3%,164,145,88.4%,152,92.7%,Y
+2021-2022,01,61259,6001903,Alameda,Oakland Unified,New Highland Academy Elementary,Unified School District,Elementary Schools (Public),Traditional,N/A,N,N/A,N/A,N,K,5,296,263,88.9%,291,98.3%,296,263,88.9%,291,98.3%,Y
